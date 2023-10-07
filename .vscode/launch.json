@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "InfixToPrefixConverter",
+            "request": "launch",
+            "mainClass": "questions.InfixToPrefixConverter",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "questions.Main",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "HorseSpeedProblem",
+            "request": "launch",
+            "mainClass": "HorseSpeedProblem",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "Question1",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        }
+    ]
+}
