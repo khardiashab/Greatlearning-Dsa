@@ -1,5 +1,12 @@
 # Compiled class file
 *.class
+.vscode
+/.settings
+/bin
+.classpath
+.project
+/lib
+.gitignore
 
 # Log file
 *.log

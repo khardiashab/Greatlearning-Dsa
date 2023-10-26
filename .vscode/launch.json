@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BstHeight",
+            "request": "launch",
+            "mainClass": "implementation.BstHeight",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "Bst",
+            "request": "launch",
+            "mainClass": "implementation.Bst",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "BtreeUsingArray",
+            "request": "launch",
+            "mainClass": "implementation.BtreeUsingArray",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "codingChallenge.Main",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "count_pairs",
+            "request": "launch",
+            "mainClass": "codingChallenge.count_pairs",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "DLLImp",
+            "request": "launch",
+            "mainClass": "codingChallenge.DLLImp",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListAddition",
+            "request": "launch",
+            "mainClass": "codingChallenge.LinkedListAddition",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "kth",
+            "request": "launch",
+            "mainClass": "kth",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "ReorderList",
+            "request": "launch",
+            "mainClass": "ReorderList",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "implementation.DoublyLinkedList",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "CricularLinkedList",
+            "request": "launch",
+            "mainClass": "implementation.CricularLinkedList",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
+            "name": "SinglyLinkedList",
+            "request": "launch",
+            "mainClass": "implemention.SinglyLinkedList",
+            "projectName": "Greatlearning-Dsa_d429a34"
+        },
+        {
+            "type": "java",
             "name": "InfixToPrefixConverter",
             "request": "launch",
             "mainClass": "questions.InfixToPrefixConverter",
